@@ -21,7 +21,7 @@ puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' fr
 
 jim = User.new
 
-jim.learn 
+
 
 steve.learn(avi.teach)
 
