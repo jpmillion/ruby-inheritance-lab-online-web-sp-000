@@ -27,3 +27,6 @@ steve.learn(avi.teach)
 
 jon = Student.new
 jon.learn(avi.teach)
+
+puts steve.knowledge
+puts jon.knowledge
