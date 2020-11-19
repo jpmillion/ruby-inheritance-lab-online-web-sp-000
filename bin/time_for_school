@@ -24,3 +24,5 @@ jim = User.new('Jim', 'Jones')
 jim.learn 
 
 steve.learn(avi.teach)
+
+jon = Student.new
